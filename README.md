@@ -1,4 +1,4 @@
-# Red-Hydra-Tech
+# Red Hydra Technologies
 
 ### 
 <!--
