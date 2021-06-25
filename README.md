@@ -186,13 +186,13 @@ Project Link: [https://github.com/github_username/repo_name](https://github.com/
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/oredhydratechnologies/redhydratech.svg?style=for-the-badge
-[contributors-url]: https://github.com/redhydratechnologies/redhydratech/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/omegahydrasoftwares0722/Red-Hydra-Tech.svg?style=for-the-badge
-[forks-url]: https://github.com/omegahydrasoftwares0722/Red-Hydra-Tech/network/members
-[stars-shield]: https://img.shields.io/github/stars/omegahydrasoftwares0722/Red-Hydra-Tech.svg?style=for-the-badge
-[stars-url]: https://github.com/omegahydrasoftwares0722/Red-Hydra-Tech/stargazers
-[issues-shield]: https://img.shields.io/github/issues/omegahydrasoftwares0722/Red-Hydra-Tech.svg?style=for-the-badge
-[issues-url]: https://github.com/omegahydrasoftwares0722/Red-Hydra-Tech/issues
-[license-shield]: https://img.shields.io/github/license/omegahydrasoftwares0722/Red-Hydra-Tech.svg?style=for-the-badge
-[license-url]: https://github.com/omegahydrasoftwares0722/Red-Hydra-Tech/blob/master/LICENSE.txt
+[contributors-shield]: https://img.shields.io/github/contributors/omegahydrasoftwares0722/redhydratech.svg?style=for-the-badge
+[contributors-url]: https://github.com/omegahydrasoftwares0722/redhydratech/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/omegahydrasoftwares0722/redhydratech.svg?style=for-the-badge
+[forks-url]: https://github.com/omegahydrasoftwares0722/redhydratech/network/members
+[stars-shield]: https://img.shields.io/github/stars/omegahydrasoftwares0722/redhydratech.svg?style=for-the-badge
+[stars-url]: https://github.com/omegahydrasoftwares0722/redhydratech/stargazers
+[issues-shield]: https://img.shields.io/github/issues/omegahydrasoftwares0722/redhydratech.svg?style=for-the-badge
+[issues-url]: https://github.com/omegahydrasoftwares0722/redhydratech/issues
+[license-shield]: https://img.shields.io/github/license/omegahydrasoftwares0722redhydratech.svg?style=for-the-badge
+[license-url]: https://github.com/omegahydrasoftwares0722/redhydratech/blob/master/LICENSE.txt
