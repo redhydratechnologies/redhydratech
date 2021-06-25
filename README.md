@@ -186,8 +186,8 @@ Project Link: [https://github.com/github_username/repo_name](https://github.com/
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/omegahydrasoftwares0722/Red-Hydra-Tech.svg?style=for-the-badge
-[contributors-url]: https://github.com/omegahydrasoftwares0722/Red-Hydra-Tech/graphs/contributors
+[contributors-shield]: https://img.shields.io/github/contributors/oredhydratechnologies/redhydratech.svg?style=for-the-badge
+[contributors-url]: https://github.com/redhydratechnologies/redhydratech/graphs/contributors
 [forks-shield]: https://img.shields.io/github/forks/omegahydrasoftwares0722/Red-Hydra-Tech.svg?style=for-the-badge
 [forks-url]: https://github.com/omegahydrasoftwares0722/Red-Hydra-Tech/network/members
 [stars-shield]: https://img.shields.io/github/stars/omegahydrasoftwares0722/Red-Hydra-Tech.svg?style=for-the-badge
