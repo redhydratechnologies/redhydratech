@@ -190,12 +190,12 @@ Project Link: [https://github.com/github_username/repo_name](https://github.com/
 [contributors-shield]: https://img.shields.io/github/contributors/redhydratechnologies/Red-Hydra-Tech.svg?style=for-the-badge
 [contributors-url]: https://github.com/redhydratechnologies/Red-Hydra-Tech/graphs/contributors
 [forks-shield]: https://img.shields.io/github/forks/redhydratechnologies/Red-Hydra-Tech.svg?style=for-the-badge
-[forks-url]: https://github.com/github_username/repo/network/members
+[forks-url]: https://github.com/redhydratechnologies/Red-Hydra-Tech/network/members
 [stars-shield]: https://img.shields.io/github/stars/redhydratechnologies/Red-Hydra-Tech.svg?style=for-the-badge
-[stars-url]: https://github.com/github_username/repo/stargazers
+[stars-url]: https://github.com/redhydratechnologies/Red-Hydra-Tech/stargazers
 [issues-shield]: https://img.shields.io/github/issues/redhydratechnologies/Red-Hydra-Tech.svg?style=for-the-badge
-[issues-url]: https://github.com/github_username/repo/issues
+[issues-url]: https://github.com/redhydratechnologies/Red-Hydra-Tech/issues
 [license-shield]: https://img.shields.io/github/license/redhydratechnologies/Red-Hydra-Tech.svg?style=for-the-badge
-[license-url]: https://github.com/github_username/repo/blob/master/LICENSE.txt
+[license-url]: https://github.com/redhydratechnologies/Red-Hydra-Tech/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/github_username
