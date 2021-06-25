@@ -188,11 +188,11 @@ Project Link: [https://github.com/github_username/repo_name](https://github.com/
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 [contributors-shield]: https://img.shields.io/github/contributors/redhydratechnologies/redhydratech.svg?style=for-the-badge
 [contributors-url]: https://github.com/redhydratechnologies/redhydratech/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/github_username/repo.svg?style=for-the-badge
-[forks-url]: https://github.com/github_username/repo/network/members
-[stars-shield]: https://img.shields.io/github/stars/github_username/repo.svg?style=for-the-badge
-[stars-url]: https://github.com/github_username/repo/stargazers
-[issues-shield]: https://img.shields.io/github/issues/github_username/repo.svg?style=for-the-badge
-[issues-url]: https://github.com/github_username/repo/issues
-[license-shield]: https://img.shields.io/github/license/github_username/repo.svg?style=for-the-badge
-[license-url]: https://github.com/github_username/repo/blob/master/LICENSE.txt
+[forks-shield]: https://img.shields.io/github/forks/redhydratechnologies/redhydratech.svg?style=for-the-badge
+[forks-url]: https://github.comredhydratechnologies/redhydratech/network/members
+[stars-shield]: https://img.shields.io/github/stars/redhydratechnologies/redhydratech.svg?style=for-the-badge
+[stars-url]: https://github.com/redhydratechnologies/redhydratech/stargazers
+[issues-shield]: https://img.shields.io/github/issues/redhydratechnologies/redhydratech.svg?style=for-the-badge
+[issues-url]: https://github.com/redhydratechnologies/redhydratech/issues
+[license-shield]: https://img.shields.io/github/license/redhydratechnologies/redhydratech.svg?style=for-the-badge
+[license-url]: https://github.com/redhydratechnologies/redhydratech/blob/master/LICENSE.txt
