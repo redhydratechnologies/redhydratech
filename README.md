@@ -28,7 +28,6 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 [![MIT License][license-shield]][license-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
 
 
 
@@ -187,13 +186,13 @@ Project Link: [https://github.com/github_username/repo_name](https://github.com/
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/bluehydrarblx-dev/rTyphoeusSploit.svg?style=for-the-badge
-[contributors-url]: https://github.com/bluehydrarblx-dev/rTyphoeusSploit/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/bluehydrarblx-dev/rTyphoeusSploit.svg?style=for-the-badge
-[forks-url]: https://github.com/bluehydrarblx-dev/rTyphoeusSploit/network/members
-[stars-shield]: https://img.shields.io/github/stars/bluehydrarblx-dev/rTyphoeusSploit.svg?style=for-the-badge
-[stars-url]: https://github.com/bluehydrarblx-dev/rTyphoeusSploit/stargazers
-[issues-shield]: https://img.shields.io/github/issues/bluehydrarblx-dev/rTyphoeusSploit.svg?style=for-the-badge
-[issues-url]: https://github.com/bluehydrarblx-dev/rTyphoeusSploit/issues
-[license-shield]: https://img.shields.io/github/license/bluehydrarblx-dev/rTyphoeusSploit.svg?style=for-the-badge
-[license-url]: https://github.com/bluehydrarblx-dev/rTyphoeusSploit/blob/master/LICENSE.txt
+[contributors-shield]: https://img.shields.io/github/contributors/redhydratechnologies/Red-Hydra-Tech.svg?style=for-the-badge
+[contributors-url]: https://github.com/redhydratechnologies/Red-Hydra-Tech/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/redhydratechnologies/Red-Hydra-Tech.svg?style=for-the-badge
+[forks-url]: https://github.com/redhydratechnologies/Red-Hydra-Tech/network/members
+[stars-shield]: https://img.shields.io/github/stars/redhydratechnologies/Red-Hydra-Tech.svg?style=for-the-badge
+[stars-url]: https://github.com/redhydratechnologies/Red-Hydra-Tech/stargazers
+[issues-shield]: https://img.shields.io/github/issues/redhydratechnologies/Red-Hydra-Tech.svg?style=for-the-badge
+[issues-url]: https://github.com/redhydratechnologies/Red-Hydra-Tech/issues
+[license-shield]: https://img.shields.io/github/license/redhydratechnologies/Red-Hydra-Tech.svg?style=for-the-badge
+[license-url]: https://github.com/redhydratechnologies/Red-Hydra-Tech/blob/master/LICENSE.txt
